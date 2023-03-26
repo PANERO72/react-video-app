@@ -1,0 +1,24 @@
+.root {
+  border-radius: 15px;
+  border: 2px solid #c4c0c0;
+  display: flex;
+  overflow: hidden;
+  padding: 0px;
+  margin-bottom: 40px;
+}
+.searchInput {
+  background-color: transparent;
+  padding: 10px;
+  font-size: 18px;
+  width: 100%;
+  border-radius: 15px 0px 0px 15px;
+  border: 1px solid black;
+  color: white;
+}
+.searhBtn {
+  background-color: rgb(219, 55, 58);
+  color: white;
+  font-weight: 500;
+  padding: 15px;
+  border: 0px solid transparent;
+}
